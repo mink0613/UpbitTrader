@@ -10,9 +10,9 @@ namespace UpbitTrader.UpbitAPI
 {
     public class HttpAPI
     {
-        private static readonly string _accessKey = "0GERxwf9zwW9uhXVsXC7REr5x4xZAVo6yxGFLnHK";
+        private static readonly string _accessKey = "YOUR_ACCESS_KEY";
 
-        private static readonly string _secretKey = "zxtAAMkbozDAIt4XnIYpr37esa0CAjLQsugshXcE";
+        private static readonly string _secretKey = "YOUR_SECRET_KEY";
 
         private static string _jwtToken;
 
